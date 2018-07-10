@@ -1,0 +1,1 @@
+ora2pg -p -c /etc/ora2pg/ora2pg.conf.dist -t QUERY -i /home/postgres/codeOracle/frame/LBS01_A1_A3605/A75.sql
